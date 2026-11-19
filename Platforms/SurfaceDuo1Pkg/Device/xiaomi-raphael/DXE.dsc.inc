@@ -1,4 +1,5 @@
 [Components.common]
+AndromedaPkg/Driver/RaphaelOtgLatchDxe/RaphaelOtgLatchDxe.inf
 # QcomPkg/XBLCore/XBLCore.inf
 Cambria/BOOT.XF.3.0.1-00243-SC8180XWZB-2/QcomPkg/Drivers/CPRDxe/CPRDxe.inf
 Cambria/BOOT.XF.3.0.1-00243-SC8180XWZB-2/QcomPkg/Drivers/ShmBridgeDxe/ShmBridgeDxe.inf
